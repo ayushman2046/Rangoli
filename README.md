@@ -1,3 +1,4 @@
 ## The Rangoli looks like this.
 
-![Rangoli](https://user-images.githubusercontent.com/77488166/140499321-59ea159c-8142-47ac-b0e3-c354ff8a414c.jpg)
+![Rangoli](https://user-images.githubusercontent.com/77488166/140500983-35c41729-b798-4cc3-9487-b118ebce2937.jpg)
+
